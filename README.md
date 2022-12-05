@@ -13,7 +13,7 @@
 - 📫 How to reach me **leulgezagegn485@gmail.com**
 
 - ⚡ Fun fact **I think am funny**
-     https://komarev.com/ghpvc/?username=leulgezahegn
+   ![](https://komarev.com/ghpvc/?username=Dagimassefa)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
