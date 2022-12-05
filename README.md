@@ -27,4 +27,5 @@
 
   ![](https://komarev.com/ghpvc/?username=leulgezahegn)
   [![GitHub Streak](https://streak-stats.demolab.com/?user=leulgezahegn&theme=dark)](https://git.io/streak-stats)
+  [![trophy](https://github-profile-trophy.vercel.app/?username=Dagimassefa&row=2&column=3&theme=dark_dimmed)](https://github.com/ryo-ma/github-profile-trophy)
 
