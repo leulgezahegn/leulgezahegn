@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm leul gezahegn</h1>
-<h3 align="center">A passionate fullstack and mobileApp developer from ethiopiaper </h3>
+<h3 align="center">A passionate fullstack and mobileApp developer from ethiopia </h3>
 <img align="right" alt="coding" width="400"src="https://t3.ftcdn.net/jpg/01/78/65/02/360_F_178650212_oePgGaIhKUhz0cIg2bLBGsFsdbWs5Xwj.jpg"
 
 - 🔭 I’m currently working on **quiz app**
