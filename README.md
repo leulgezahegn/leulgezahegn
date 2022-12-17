@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **react native and flutter**
 
-- 👨‍💻 All of my projects are available at [http://leulpersonalwebs ite.netlify.app](http://leulpersonalwebs ite.netlify.app)
+- 👨‍💻 All of my projects are available at [http://leulpersonalwebsite.netlify.app](http://leulpersonalwebs ite.netlify.app)
 
 - 💬 Ask me about **web developemnt and android**
  
