@@ -8,7 +8,8 @@
 
 - 👨‍💻 All of my projects are available at [http://leulpersonalwebsite.netlify.app](http://leulpersonalwebs ite.netlify.app)
 
-- 💬 Ask me about **web developemnt and android**
+- 💬 Ask me about **web development
+ and android**
  
 - 📫 How to reach me **leulgezagegn485@gmail.com**
 
